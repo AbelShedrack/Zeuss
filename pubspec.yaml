@@ -29,6 +29,7 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   google_fonts: ^2.1.0
   http: ^0.13.3
+  introduction_screen: ^2.1.0
   get: ^4.2.4
   font_awesome_flutter: ^9.1.0
   cupertino_icons: ^1.0.2
